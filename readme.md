@@ -130,7 +130,3 @@ Tomcat initialized with port(s): 8080 (http)
 
 
 
-
-|키워드|설명|
-|:---|:---|
-|||
